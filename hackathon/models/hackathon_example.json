@@ -1,0 +1,28 @@
+{
+  "hackathon": {
+    "id": 1,
+    "name": "Science Tech and STEM",
+    "date": "20-01-2022",
+    "place": "New York",
+    "developments": [
+      {
+        "id": "1",
+        "name": "Medical app",
+        "developer": "August",
+        "winning_place": 1
+      },
+      {
+        "id": "2",
+        "name": "Medical app",
+        "developer": "August",
+        "winning_place": 2
+      },
+      {
+        "id": "3",
+        "name": "Medical app",
+        "developer": "August",
+        "winning_place": 3
+      }
+    ]
+  }
+}
